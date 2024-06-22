@@ -1,4 +1,4 @@
-#credit @codeflix_bots (telegram)
+#credit @DRV_EXCHANGE (telegram)
 
 """Get id of the replied user
 Syntax: /id"""
